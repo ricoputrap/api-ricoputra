@@ -1,0 +1,51 @@
+[
+  { 
+    "id": 0,
+    "title": "Senior Web Developer",
+    "company": "M+ Software",
+    "start": "Jan 2022",
+    "end": ""
+  },
+  { 
+    "id": 1,
+    "title": "Junior Web Developer",
+    "company": "M+ Software",
+    "start": "Dec 2020",
+    "end": "Jan 2022"
+  },
+  { 
+    "id": 2,
+    "title": "Freelance Frontend Web Developer",
+    "company": "Universitas Indonesia",
+    "start": "Sep 2020",
+    "end": "Jan 2021"
+  },
+  { 
+    "id": 3,
+    "title": "Freelance Project Manager",
+    "company": "Universitas Indonesia",
+    "start": "Nov 2019",
+    "end": "Mar 2020"
+  },
+  { 
+    "id": 4,
+    "title": "Software Engineer Intern - Android",
+    "company": "PT eCEOs Indonesia",
+    "start": "May 2019",
+    "end": "Aug 2020"
+  },
+  { 
+    "id": 5,
+    "title": "Freelance Web Developer - Django",
+    "company": "Southeast Asia Startup Summit 2019",
+    "start": "Feb 2019",
+    "end": "Jun 2019"
+  },
+  { 
+    "id": 6,
+    "title": "Software Engineer Intern - Android",
+    "company": "Trimegah Securities",
+    "start": "Jun 2018",
+    "end": "Aug 2018"
+  }
+]

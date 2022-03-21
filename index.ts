@@ -1,4 +1,5 @@
 import express, { Application, Request, Response } from "express";
+import jobsRoutes from "./routes/jobs";
 
 const app: Application = express();
 const PORT = 3001;
@@ -7,11 +8,7 @@ const PORT = 3001;
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-app.get("/", async (req: Request, res: Response): Promise<Response> => {
-  return res.status(200).send({
-    message: "Hello World"
-  });
-})
+app.use("/jobs", jobsRoutes);
 
 try {
   app.listen(PORT, (): void => {
